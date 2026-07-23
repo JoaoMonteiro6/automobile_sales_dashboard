@@ -1,0 +1,8 @@
+```
+pandas==2.0.3
+dash==2.14.1
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+plotly==5.16.1
+more-itertools==10.0.0
+```
