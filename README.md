@@ -7,7 +7,7 @@ Interactive analysis of automobile sales data with real-time visualizations.
 
 **Easiest way:** Open the Jupyter notebook to see all charts and analysis:
 
-👉 **[Open Analysis.ipynb](Automobile_Sales_Analysis.ipynb)**
+👉 **[Open Analysis Notebook](https://github.com/JoaoMonteiro6/automobile_sales_dashboard/blob/main/Automobile_Sales_Analysis.ipynb)**
 
 **No installation needed** - just click the link above!
 
