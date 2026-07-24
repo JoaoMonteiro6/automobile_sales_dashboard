@@ -30,6 +30,12 @@ You'll see:
 
 ## 🚀 Run Interactive Dashboard
 
+## 🎥 Dashboard Preview
+
+Experience the interactive dashboard before trying the live version.
+
+![Dashboard Demo](images/dashboard_demo.gif)
+
 ## 🌐 Live Demo
 
 Try the interactive dashboard online:
