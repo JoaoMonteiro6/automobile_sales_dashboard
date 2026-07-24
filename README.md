@@ -30,26 +30,55 @@ You'll see:
 
 ## 🚀 Run Interactive Dashboard
 
-Want to filter and explore the data yourself?
+## 🌐 Live Demo
 
-**Installation (3 commands):**
+Try the interactive dashboard online:
+
+👉 https://automobile-sales-dashboard.onrender.com
+
+No installation required.
+
+---
+
+## 💻 Run Locally
+
+If you would like to run the dashboard on your own machine:
+
+### 1. Clone the repository
 
 ```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Run the app
-python automobile_sales_dashboard.py
-
-# 3. Open browser and go to:
-# http://127.0.0.1:8090
+git clone https://github.com/JoaoMonteiro6/automobile_sales_dashboard.git
+cd automobile_sales_dashboard
 ```
 
-**Features:**
-- Filter by year or recession period
-- Interactive charts that update in real-time
-- Multiple visualization types (line, bar, pie charts)
-- Economic impact analysis
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Launch the dashboard
+
+```bash
+python automobile_sales_dashboard.py
+```
+
+### 4. Open your browser
+
+```
+http://127.0.0.1:8090
+```
+
+---
+
+## ✨ Features
+
+- 📈 Interactive automobile sales analysis
+- 📅 Filter data by year
+- 📉 Recession period analysis
+- 📊 Multiple interactive visualizations (Line, Bar and Pie charts)
+- 🔄 Dynamic charts powered by Plotly Dash
+- 🌐 Live dashboard deployed on Render
 
 ---
 
