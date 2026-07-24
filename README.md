@@ -1,4 +1,9 @@
 # 🚗 Automobile Sales Dashboard
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Dash](https://img.shields.io/badge/Dash-Framework-008DE4)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?logo=plotly)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render)
 
 Interactive analysis of historical automobile sales data with real-time visualizations built using Python and Dash.
 
