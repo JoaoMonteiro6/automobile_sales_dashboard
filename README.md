@@ -28,22 +28,31 @@ You'll see:
 
 ---
 
-## 🚀 Run Interactive Dashboard
+# 🚗 Automobile Sales Analytics Dashboard
+
+An interactive dashboard built with **Python, Dash, Plotly and Pandas** to explore historical automobile sales trends and the impact of economic recessions.
+
+---
 
 ## 🎥 Dashboard Preview
 
-Experience the interactive dashboard before trying the live version.
-
 ![Dashboard Demo](images/dashboard_demo.gif)
+
+---
 
 ## 🌐 Live Demo
 
-Try the interactive dashboard online:
+👉 **https://automobile-sales-dashboard.onrender.com**
 
-👉 https://automobile-sales-dashboard.onrender.com
+Explore the dashboard online without any installation.
 
-No installation required.
+---
 
+## 📓 Jupyter Notebook
+
+👉 **Open the complete analysis notebook**
+
+[Automobile Sales Analysis](./Automobile_Sales_Analysis.ipynb)
 ---
 
 ## 💻 Run Locally
